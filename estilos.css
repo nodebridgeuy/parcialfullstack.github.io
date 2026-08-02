@@ -7,12 +7,6 @@ button {
     height: 90%;
     font-size: 24px;
 }
-#opciones {
-    height: 350px;
-}
-iframe {
-    border:0;
-}
 footer {
     width: 100%;
     background-color: #0d6efd;
@@ -21,4 +15,17 @@ footer {
     box-sizing: border-box;
     bottom: 0;
     left: 0;
+}
+iframe {
+    border:0;
+}
+#opciones {
+    height: 350px;
+}
+#documentos {
+    height: 250px;
+    width: 90%;
+}
+#tituloDoc {
+    color: white;
 }
